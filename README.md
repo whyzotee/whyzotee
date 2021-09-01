@@ -1,4 +1,4 @@
-#こんにちは <a href="#"><img  width="35px" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif"></a>
+#こんにちは
 <!-- <a align="right" href="#"><img width="48px" align="right" src="https://cdn.discordapp.com/emojis/863066039938711582.gif?url=https%3A%2F%2Fgithub.com%2FZ0TEExt&count_bg=%230D1117&title_bg=%230D1117&icon=&icon_color=%23E7E7E7&title=profile+view&edge_flat=false"/></a> -->
 
 <a href="#">
@@ -11,7 +11,7 @@
   <img width="339" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z0TEExt&count_private=false&theme=dark&hide_border=true&bg_color=0d1117&hide=html,css,scss,c%2B%2B,&layout=compact&langs_count=10)](https://github.com/Z0TEExt?tab=repositories&q=&type=public"/>
 
 ### Contect Me!
-
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/Z0TEE)
 [![](https://img.shields.io/badge/Discord-5865F2?logo=Discord&logoColor=white&style=for-the-badge)](https://discord.com/users/277397789909057538)
 [![](https://img.shields.io/badge/Twitter-1DA1F2?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/Z0TEExt)
 
@@ -26,7 +26,7 @@
 [![](https://img.shields.io/badge/Xbox-107C10?logo=Xbox&logoColor=white&style=for-the-badge)](https://account.xbox.com/en-us/profile?gamertag=F1rstStr0ke&activetab=main:mainTab3)
 <details>
 <summary>
-  My PC Specs
+    PC Specs
 </summary>
 <p>
 Desktop
