@@ -1,25 +1,24 @@
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/Z0TEExt#0104)](https://discord.com/users/Z0TEExt#0104)
 # Hi there Welcome my profile <a href="#"><img  width="35px" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif"></a>
-<!-- <a align="right" href="#"><img width="48px" align="right" src="https://cdn.discordapp.com/emojis/863066039938711582.gif?url=https%3A%2F%2Fgithub.com%2FFaelayis&count_bg=%230D1117&title_bg=%230D1117&icon=&icon_color=%23E7E7E7&title=profile+view&edge_flat=false"/></a> -->
+<!-- <a align="right" href="#"><img width="48px" align="right" src="https://cdn.discordapp.com/emojis/863066039938711582.gif?url=https%3A%2F%2Fgithub.com%2FZ0TEExt&count_bg=%230D1117&title_bg=%230D1117&icon=&icon_color=%23E7E7E7&title=profile+view&edge_flat=false"/></a> -->
 
 <a href="#">
-  <img width="480" align="center" src="https://github-readme-stats.vercel.app/api?username=Faelayis&theme=dark&hide_title=false&show_icons=true&hide_border=true&bg_color=0d1117&custom_title=GitHub%20Stats&icon_color=fe926b&include_all_commits=true&count_private=true"/>
+  <img width="480" align="center" src="https://github-readme-stats.vercel.app/api?username=Z0TEExt&theme=dark&hide_title=false&show_icons=true&hide_border=true&bg_color=0d1117&custom_title=GitHub%20Stats&icon_color=fe926b&include_all_commits=true&count_private=true"/>
 <a href="https://discordapp.com/users/328731868096888833">
   <img height="189" width="354" align="right" src="https://lanyard-profile-readme.vercel.app/api/328731868096888833?bg=0d1117"/>
-<a align="center" href="https://wakatime.com/@Faelayis">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Faelayis&theme=dark&layout=compact&range=all_time&hide_border=true&bg_color=0d1117"/>
-<a href="https://github.com/Faelayis?tab=repositories">
-  <img width="339" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faelayis&count_private=false&theme=dark&hide_border=true&bg_color=0d1117&hide=html,css,scss,c%2B%2B,&layout=compact&langs_count=10)](https://github.com/Faelayis?tab=repositories&q=&type=public"/>
+<a align="center" href="https://wakatime.com/@Z0TEExt">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Z0TEExt&theme=dark&layout=compact&range=all_time&hide_border=true&bg_color=0d1117"/>
+<a href="https://github.com/Z0TEExt?tab=repositories">
+  <img width="339" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z0TEExt&count_private=false&theme=dark&hide_border=true&bg_color=0d1117&hide=html,css,scss,c%2B%2B,&layout=compact&langs_count=10)](https://github.com/Z0TEExt?tab=repositories&q=&type=public"/>
 
 ### How to reach me
 
 [![](https://img.shields.io/badge/Discord-5865F2?logo=Discord&logoColor=white&style=for-the-badge)](https://discord.com/users/328731868096888833)
-[![](https://img.shields.io/badge/Twitter-1DA1F2?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/Faelayis)
+[![](https://img.shields.io/badge/Twitter-1DA1F2?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/Z0TEExt)
 
 ### What i use
 
-[![](https://img.shields.io/badge/endpoint?logoColor=white&style=for-the-badge&url=https://raw.githubusercontent.com/Faelayis/Faelayis/main/data/Node.json)](https://nodejs.org/en)
-[![](https://img.shields.io/badge/endpoint?logoColor=white&style=for-the-badge&url=https://raw.githubusercontent.com/Faelayis/Faelayis/main/data/NPM.json)](https://www.npmjs.com/package/npm/)
+[![](https://img.shields.io/badge/endpoint?logoColor=white&style=for-the-badge&url=https://raw.githubusercontent.com/Z0TEExt/Z0TEExt/main/data/Node.json)](https://nodejs.org/en)
+[![](https://img.shields.io/badge/endpoint?logoColor=white&style=for-the-badge&url=https://raw.githubusercontent.com/Z0TEExt/Z0TEExt/main/data/NPM.json)](https://www.npmjs.com/package/npm/)
 [![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge)](https://www.javascript.com)
 [![](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=for-the-badge)](#)
 [![](https://img.shields.io/badge/Electron-47848F?logo=Electron&logoColor=white&style=for-the-badge)](https://www.electronjs.org)
@@ -37,10 +36,10 @@
 ### What i join
 
 [![](https://img.shields.io/badge/Windows%20insider-0078D6?logo=windows&logoColor=white&style=for-the-badge)](https://insider.windows.com/)
-[![](https://img.shields.io/badge/gitlab-FCA121?logo=gitlab&logoColor=white&style=for-the-badge)](https://gitlab.com/Faelayis)
-[![](https://img.shields.io/badge/Crowdin-2E3340?logo=Crowdin&logoColor=white&style=for-the-badge)](https://crowdin.com/profile/Faelayis)
+[![](https://img.shields.io/badge/gitlab-FCA121?logo=gitlab&logoColor=white&style=for-the-badge)](https://gitlab.com/Z0TEExt)
+[![](https://img.shields.io/badge/Crowdin-2E3340?logo=Crowdin&logoColor=white&style=for-the-badge)](https://crowdin.com/profile/Z0TEExt)
 
-[![](https://github-readme-streak-stats.herokuapp.com?user=Faelayis&theme=dark&hide_border=true&background=0D1117)](#)
+[![](https://github-readme-streak-stats.herokuapp.com?user=Z0TEExt&theme=dark&hide_border=true&background=0D1117)](#)
 
 ### Music
 
