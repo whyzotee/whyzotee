@@ -1,17 +1,16 @@
-#こんにちは
-<!-- <a align="right" href="#"><img width="48px" align="right" src="https://cdn.discordapp.com/emojis/863066039938711582.gif?url=https%3A%2F%2Fgithub.com%2FZ0TEExt&count_bg=%230D1117&title_bg=%230D1117&icon=&icon_color=%23E7E7E7&title=profile+view&edge_flat=false"/></a> -->
+# こんにちは !
 
 <a href="#">
   <img width="480" align="center" src="https://github-readme-stats.vercel.app/api?username=Z0TEExt&theme=dark&hide_title=false&show_icons=true&hide_border=true&bg_color=0d1117&custom_title=GitHub%20Stats&icon_color=fe926b&include_all_commits=true&count_private=true"/>
-<a href="https://discordapp.com/users/328731868096888833">
-  <img height="189" width="354" align="right" src="https://lanyard-profile-readme.vercel.app/api/328731868096888833?bg=0d1117"/>
+<a href="https://discordapp.com/users/277397789909057538">
+  <img height="189" width="354" align="right" src="https://lanyard-profile-readme.vercel.app/api/277397789909057538?bg=0d1117"/>
 <a align="center" href="https://wakatime.com/@Z0TEExt">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Z0TEExt&theme=dark&layout=compact&range=all_time&hide_border=true&bg_color=0d1117"/>
 <a href="https://github.com/Z0TEExt?tab=repositories">
   <img width="339" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z0TEExt&count_private=false&theme=dark&hide_border=true&bg_color=0d1117&hide=html,css,scss,c%2B%2B,&layout=compact&langs_count=10)](https://github.com/Z0TEExt?tab=repositories&q=&type=public"/>
 
 ### Contect Me!
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/Z0TEE)
+[![](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/Z0TEE)
 [![](https://img.shields.io/badge/Discord-5865F2?logo=Discord&logoColor=white&style=for-the-badge)](https://discord.com/users/277397789909057538)
 [![](https://img.shields.io/badge/Twitter-1DA1F2?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/Z0TEExt)
 
