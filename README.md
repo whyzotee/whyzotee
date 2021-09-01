@@ -28,18 +28,18 @@
     Specification
 </summary>
 <p>
-PC
+🖥 PC 
 <br>
-  <img src="https://img.shields.io/badge/Windows%2011-blue?logo=microsoft&logoColor=white&labelColor=1fa2f9&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CPU-AMD%20Ryzen%205%202600-f1911d?labelColor=00a270&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAM-8GB-bcbdc0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GPU-Nvidia%20GEFORCE%20GTX%201050TI-76b900?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Windows%2011-blue?logo=microsoft&logoColor=white&labelColor=1fa2f9&style=for-the-badge" /><br>
+  <img src="https://img.shields.io/badge/CPU-AMD%20Ryzen%205%202600-DA0032?labelColor=fff&style=for-the-badge" /><br>
+  <img src="https://img.shields.io/badge/RAM-8GB-115d33?labelColor=fff&style=for-the-badge" /><br>
+  <img src="https://img.shields.io/badge/GPU-Nvidia%20GEFORCE%20GTX%201050TI-76b900?labelColor=fff&style=for-the-badge" />
 </p>
-Laptop
+💻 Laptop 
 <p>
-  <img src="https://img.shields.io/badge/Windows%2010-blue?logo=windows&logoColor=white&labelColor=00adef&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CPU-AMD%20Ryzen%207%202700U-f1911d?labelColor=00a270&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAM-8GB-bcbdc0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GPU-AMD%20Radeon%20RX%20560X-DA0032?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Windows%2010-blue?logo=windows&logoColor=white&labelColor=00adef&style=for-the-badge" /><br>
+  <img src="https://img.shields.io/badge/CPU-INTEL%20CORE%20I7%204702MQ-0071c5?labelColor=fff&style=for-the-badge" /><br>
+  <img src="https://img.shields.io/badge/RAM-8GB-115d33?labelColor=fff&style=for-the-badge" /><br>
+  <img src="https://img.shields.io/badge/GPU-INTEL%20HD%20GRAPHIC%204600-0071c5?labelColor=fff&style=for-the-badge" />
 </p>
 </details>
