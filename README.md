@@ -1,7 +1,7 @@
 # こんにちは !
 
 <a href="#">
-  <img width="480" align="center" src="https://github-readme-stats.vercel.app/api?username=Z0TEExt&theme=dark&hide_title=false&show_icons=true&hide_border=true&bg_color=0d1117&custom_title=GitHub%20Stats&icon_color=fe926b&include_all_commits=true&count_private=true"/>
+  <img width="480" align="center" src="https://github-readme-stats.vercel.app/api?username=Z0TEExt&theme=dark&hide_title=false&show_icons=true&hide_border=true&bg_color=0d1117&custom_title=GitHub%20Stats&icon_color=ffe5b4&include_all_commits=true&count_private=true"/>
 <a href="https://discordapp.com/users/277397789909057538">
   <img height="189" width="354" align="right" src="https://lanyard-profile-readme.vercel.app/api/277397789909057538?bg=0d1117"/>
 <a align="center" href="https://wakatime.com/@Z0TEExt">
@@ -25,15 +25,15 @@
 [![](https://img.shields.io/badge/Xbox-107C10?logo=Xbox&logoColor=white&style=for-the-badge)](https://account.xbox.com/en-us/profile?gamertag=F1rstStr0ke&activetab=main:mainTab3)
 <details>
 <summary>
-    PC Specs
+    Specification
 </summary>
 <p>
-Desktop
+PC
 <br>
   <img src="https://img.shields.io/badge/Windows%2011-blue?logo=microsoft&logoColor=white&labelColor=1fa2f9&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CPU-AMD%20Ryzen%207%203700X-f1911d?labelColor=00a270&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAM-16GB-bcbdc0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GPU-AMD%20Radeon%20RX%20590X-DA0032?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CPU-AMD%20Ryzen%205%202600-f1911d?labelColor=00a270&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAM-8GB-bcbdc0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GPU-Nvidia%20GEFORCE%20GTX%201050TI-76b900?style=for-the-badge" />
 </p>
 Laptop
 <p>
