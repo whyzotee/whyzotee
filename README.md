@@ -37,8 +37,8 @@
 </p>
 💻 Laptop 
 <p><br>
-  <img src="https://img.shields.io/badge/Windows%2010-blue?logo=windows&logoColor=white&labelColor=00adef&style=for-the-badge" /><br>
-  <img src="https://img.shields.io/badge/CPU-INTEL%20CORE%20I7%204702MQ-0071c5?labelColor=fff&style=for-the-badge" /><br>
+  <img src="https://img.shields.io/badge/Kali%20GNU / Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/CPU-INTEL%20CORE%20I7%204712MQ-0071c5?labelColor=fff&style=for-the-badge" /><br>
   <img src="https://img.shields.io/badge/RAM-8GB-115d33?labelColor=fff&style=for-the-badge" /><br>
   <img src="https://img.shields.io/badge/GPU-INTEL%20HD%20GRAPHIC%204600-0071c5?labelColor=fff&style=for-the-badge" />
 </p>
