@@ -29,9 +29,9 @@
 🖥 PC 
 <br><br>
   <img src="https://img.shields.io/badge/Windows%2011-blue?logo=microsoft&logoColor=white&labelColor=1fa2f9&style=for-the-badge" /><br>
-  <img src="https://img.shields.io/badge/CPU-AMD%20Ryzen%205%202600-DA0032?labelColor=fff&style=for-the-badge" /><br>
-  <img src="https://img.shields.io/badge/RAM-8GB-115d33?labelColor=fff&style=for-the-badge" /><br>
-  <img src="https://img.shields.io/badge/GPU-Nvidia%20GEFORCE%20GTX%201050TI-76b900?labelColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CPU-AMD%20Ryzen%203%202200G-DA0032?labelColor=fff&style=for-the-badge" /><br>
+  <img src="https://img.shields.io/badge/RAM-12GB-115d33?labelColor=fff&style=for-the-badge" /><br>
+  <img src="https://img.shields.io/badge/GPU-AMD%20RADEON%20VEGA%208-76b900?labelColor=fff&style=for-the-badge" />
 </p>
 💻 Laptop 
 <p><br>
