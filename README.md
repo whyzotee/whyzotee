@@ -28,7 +28,7 @@
 <p><br>
 🖥 PC 
 <br><br>
-  <img src="https://img.shields.io/badge/Windows%2011-blue?logo=microsoft&logoColor=white&labelColor=1fa2f9&style=for-the-badge" /><br>
+  <img src="https://a11ybadges.com/badge?logo=popos" /><br>
   <img src="https://img.shields.io/badge/CPU-AMD%20Ryzen%203%202200G-DA0032?labelColor=fff&style=for-the-badge" /><br>
   <img src="https://img.shields.io/badge/RAM-12GB-115d33?labelColor=fff&style=for-the-badge" /><br>
   <img src="https://img.shields.io/badge/GPU-AMD%20RADEON%20VEGA%208-DA0032?labelColor=fff&style=for-the-badge" />
