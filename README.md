@@ -7,7 +7,7 @@
 <a href="https://github.com/Z0TEExt?tab=repositories">
   <img width="339" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z0TEExt&count_private=false&theme=dark&hide_border=true&bg_color=0d1117&hide=html,css,scss,c%2B%2B,&layout=compact&langs_count=10)](https://github.com/Z0TEExt?tab=repositories&q=&type=public"/>
 
-### Contect Me!
+### Contect Me! <br>
 [![](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/Z0TEE)
 [![](https://img.shields.io/badge/Discord-5865F2?logo=Discord&logoColor=white&style=for-the-badge)](https://discord.com/users/277397789909057538)
 [![](https://img.shields.io/badge/Twitter-1DA1F2?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/Z0TEExt)
