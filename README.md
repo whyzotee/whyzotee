@@ -1,10 +1,8 @@
 # こんにちは !
 
 <a href="#">
-  <img width="480" align="center" src="https://github-readme-stats.vercel.app/api?username=Z0TEExt&theme=dark&hide_title=false&show_icons=true&hide_border=true&bg_color=0d1117&custom_title=GitHub%20Stats&icon_color=ffe5b4&include_all_commits=true&count_private=true"/>
-<a href="https://discordapp.com/users/277397789909057538">
-  <img height="189" width="354" align="right" src="https://lanyard-profile-readme.vercel.app/api/277397789909057538?bg=0d1117"/>
-<a href="https://github.com/Z0TEExt?tab=repositories">
+<img width="480" align="center" src="https://github-readme-stats.vercel.app/api?username=Z0TEExt&theme=dark&hide_title=false&show_icons=true&hide_border=true&bg_color=0d1117&custom_title=GitHub%20Stats&icon_color=ffe5b4&include_all_commits=true&count_private=true">
+<img height="189" width="354" align="right" src="https://lanyard-profile-readme.vercel.app/api/277397789909057538?bg=0d1117"/>
 <br>
 </a>
   
