@@ -5,7 +5,7 @@
 <a href="https://discordapp.com/users/277397789909057538">
   <img height="189" width="354" align="right" src="https://lanyard-profile-readme.vercel.app/api/277397789909057538?bg=0d1117"/>
 <a href="https://github.com/Z0TEExt?tab=repositories">
-  <img width="339" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z0TEExt&count_private=false&theme=dark&hide_border=true&bg_color=0d1117&hide=html,css,scss,c%2B%2B,&layout=compact&langs_count=10)](https://github.com/Z0TEExt?tab=repositories&q=&type=public"/> <br>
+<br>
 </a>
   
 ### Contect Me!
