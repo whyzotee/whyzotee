@@ -18,23 +18,3 @@
 [![](https://img.shields.io/badge/Origin-F56C2D?logo=Origin&logoColor=white&style=for-the-badge)](#)
 [![](https://img.shields.io/badge/Epic%20Games-313131?logo=EpicGames&logoColor=white&style=for-the-badge)](#)
 [![](https://img.shields.io/badge/Xbox-107C10?logo=Xbox&logoColor=white&style=for-the-badge)](#)
-<details>
-<summary>
-    Specification
-</summary>
-<p><br>
-🖥 PC 
-<br><br>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/CPU-AMD%20Ryzen%203%202200G-DA0032?labelColor=fff&style=for-the-badge" /><br>
-  <img src="https://img.shields.io/badge/RAM-12GB-115d33?labelColor=fff&style=for-the-badge" /><br>
-  <img src="https://img.shields.io/badge/GPU-AMD%20RADEON%20VEGA%208-DA0032?labelColor=fff&style=for-the-badge" />
-</p>
-💻 Laptop 
-<p><br>
-  <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/CPU-INTEL%20CORE%20I7%204712MQ-0071c5?labelColor=fff&style=for-the-badge" /><br>
-  <img src="https://img.shields.io/badge/RAM-8GB-115d33?labelColor=fff&style=for-the-badge" /><br>
-  <img src="https://img.shields.io/badge/GPU-INTEL%20HD%20GRAPHIC%204600-0071c5?labelColor=fff&style=for-the-badge" />
-</p>
-</details>
