@@ -41,6 +41,11 @@ i studying high vocational computer technology at chiang mai technical college a
 # 💻 My Coding Skill
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 # 🖥 Other Skill About Computer 
