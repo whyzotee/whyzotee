@@ -1,6 +1,5 @@
-<a href="#">
-  <img src="src/image/background_github_readme.gif" alt="banner" style="border-radius:20px;">
-</a>
+![background_github_readme](https://user-images.githubusercontent.com/53619535/207893273-2f91a8a1-6935-4f5f-9155-9e132f965560.gif)
+
 
 # 👋 Yo ! | โย่ว! | こんにちは ! 👋
 Hello everyone, welcome to my profile and sorry for bad english.😅 <br />
