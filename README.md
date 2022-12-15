@@ -1,4 +1,4 @@
-![background_github](https://user-images.githubusercontent.com/53619535/207895259-3dda302d-380c-4e80-a280-6878370b9ee9.gif)
+![background_github_readme](https://user-images.githubusercontent.com/53619535/207896410-fee92aa4-65f2-4b27-91d3-86f8424178d3.gif)
 
 # 👋 Yo ! | โย่ว! | こんにちは ! 👋
 Hello everyone, welcome to my profile and sorry for bad english.😅 <br />
