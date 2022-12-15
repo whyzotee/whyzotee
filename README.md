@@ -1,5 +1,5 @@
 <a href="#">
-  <img src="https://github.com/Z0TEExt/Z0TEExt/blob/main/src/image/background_github_readme.gif" alt="banner" style="border-radius:20px;">
+  <img src=".src/image/background_github_readme.gif" alt="banner" style="border-radius:20px;">
 </a>
 
 # 👋 Yo ! | โย่ว! | こんにちは ! 👋
