@@ -1,11 +1,19 @@
-<a href="#"><img src="https://github.com/Z0TEExt/Z0TEExt/blob/main/background_github.gif" alt="banner" style="border-radius:20px;"></a>
+<a href="#">
+  <img src="https://github.com/Z0TEExt/Z0TEExt/blob/main/background_github.gif" alt="banner" style="border-radius:20px;">
+</a>
 
 # 👋 Yo ! | โย่ว! | こんにちは ! 👋
 Hello everyone, welcome to my profile and sorry for bad english.😅 <br />
 i studying high vocational computer technology at chiang mai technical college and i want to learn new things about code. nice to meet you! <br />
 <br />
-<img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=Z0TEExt&show_icons=true&bg_color=fff&title_color=505050&icon_color=505050&border_radius=20&hide_border=true" />
-<img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z0TEExt&layout=compact&title_color=505050&border_radius=20" />
+
+<a href="#">
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=Z0TEExt&show_icons=true&bg_color=fff&title_color=505050&icon_color=505050&border_radius=20&hide_border=true" />
+</a>
+
+<a href="#">
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z0TEExt&layout=compact&title_color=505050&border_radius=20" />
+</a>
 
 # 🧒 Personal Information 🧑‍🎓
 > Name : Chatanrint Boonsaeng <br />
@@ -48,7 +56,9 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 <br />
-<a href="https://github.com/Z0TEExt/linebot-nodejs-googlesheet"><img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin?username=Z0TEExt&repo=linebot-nodejs-googlesheet&title_color=303030&icon_color=303030&text_color=303030&bg_color=fff&border_radius=20&hide_border=true" alt="repo"></a>
+<a href="https://github.com/Z0TEExt/linebot-nodejs-googlesheet">
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin?username=Z0TEExt&repo=linebot-nodejs-googlesheet&title_color=303030&icon_color=303030&text_color=303030&bg_color=fff&border_radius=20&hide_border=true" alt="repo">
+</a>
 
 # 🖥 Other Skill About Computer 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
