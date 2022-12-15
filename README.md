@@ -1,4 +1,4 @@
-<a><img src="https://github.com/Z0TEExt/Z0TEExt/blob/main/background_github.gif" alt="banner" style="border-radius:20px;"></a>
+<a href="#"><img src="https://github.com/Z0TEExt/Z0TEExt/blob/main/background_github.gif" alt="banner" style="border-radius:20px;"></a>
 
 # 👋 Yo ! | โย่ว! | こんにちは ! 👋
 Hello everyone, welcome to my profile and sorry for bad english.😅 <br />
