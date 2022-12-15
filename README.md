@@ -42,5 +42,6 @@ No activity tracked
 
 # 🖥 Other Skill About Computer 
 <a href="#">
-  <img src="https://user-images.githubusercontent.com/53619535/207901491-e495ee93-e0dc-443f-b671-0560134bd9fc.png" alt"alt_otherskill">
+  <img src="https://user-images.githubusercontent.com/53619535/207901839-4ff5363e-2bc7-483d-a9fc-10f6b758b9d7.png" alt"alt_otherskill">
 </a>
+
