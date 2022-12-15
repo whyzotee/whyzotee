@@ -1,4 +1,6 @@
-![background_github_readme](https://user-images.githubusercontent.com/53619535/207896410-fee92aa4-65f2-4b27-91d3-86f8424178d3.gif)
+<a href="#">
+  <img src="https://user-images.githubusercontent.com/53619535/207896410-fee92aa4-65f2-4b27-91d3-86f8424178d3.gif">
+</a>
 
 # 👋 Yo ! | โย่ว! | こんにちは ! 👋
 Hello everyone, welcome to my profile and sorry for bad english.😅 <br />
