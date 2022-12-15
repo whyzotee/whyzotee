@@ -43,7 +43,7 @@ i studying high vocational computer technology at chiang mai technical college a
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <br />
-<img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin?username=Z0TEExt&repo=linebot-nodejs-googlesheet&title_color=303030&icon_color=303030&text_color=303030&bg_color=fff&border_radius=20&hide_border=true" alt="repo">
+<a herf="https://github.com/Z0TEExt/linebot-nodejs-googlesheet"><img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin?username=Z0TEExt&repo=linebot-nodejs-googlesheet&title_color=303030&icon_color=303030&text_color=303030&bg_color=fff&border_radius=20&hide_border=true" alt="repo"></a>
 
 # 🖥 Other Skill About Computer 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
