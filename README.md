@@ -27,9 +27,9 @@ i studying high vocational computer technology at chiang mai technical college a
 </a>
 
 
-# 💻 My Coding Skill
+# 💻 Stats
 
-> Wakatime Record Stats at 12/15/2022 <br />
+> Wakatime Start Record Stats at 12/15/2022 <br />
 <!--START_SECTION:waka-->
 
 ```text
