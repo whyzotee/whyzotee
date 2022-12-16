@@ -33,7 +33,10 @@ i studying high vocational computer technology at chiang mai technical college a
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Markdown   15 mins         ███████████████▒░░░░░░░░░   61.43 %
+YAML       7 mins          ███████▓░░░░░░░░░░░░░░░░░   30.92 %
+PHP        1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
+HTML       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
 ```
 
 <!--END_SECTION:waka-->
