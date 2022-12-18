@@ -1,5 +1,5 @@
 <a href="#">
-  <img src="https://user-images.githubusercontent.com/53619535/207896410-fee92aa4-65f2-4b27-91d3-86f8424178d3.gif">
+  <kbd><img src="https://user-images.githubusercontent.com/53619535/207896410-fee92aa4-65f2-4b27-91d3-86f8424178d3.gif" border="20px solid red"/></kbd>
 </a>
 
 # 👋 Yo ! | โย่ว! | こんにちは ! 👋
@@ -7,7 +7,7 @@
 i studying high vocational computer technology at chiang mai technical college and i want to learn new things about code. please tell me about code if i didn't good enough and nice to meet you!"😄</h4>
 
 <a href="#">
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=Z0TEExt&show_icons=true&bg_color=fff&title_color=505050&icon_color=505050&border_radius=20&hide_border=true" />
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=Z0TEExt&show_icons=true&bg_color=fff&title_color=505050&icon_color=505050&border_radius=20&hide_border=false" />
 </a>
 
 <a href="#">
