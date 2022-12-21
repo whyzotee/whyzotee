@@ -33,12 +33,12 @@ i studying high vocational computer technology at chiang mai technical college a
 <!--START_SECTION:waka-->
 
 ```text
-Svelte       2 hrs 13 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.10 %
-JavaScript   1 hr 44 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.26 %
-C#           1 hr 19 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.20 %
-HTML         1 hr 17 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.66 %
-XAML         26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
-SCSS         20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
+HTML         2 hrs 50 mins   ███████▒░░░░░░░░░░░░░░░░░   28.77 %
+Svelte       2 hrs 13 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.53 %
+JavaScript   1 hr 44 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.67 %
+C#           1 hr 19 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.47 %
+XAML         26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
+SCSS         26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
 ```
 
 <!--END_SECTION:waka-->
