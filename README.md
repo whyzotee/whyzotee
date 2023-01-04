@@ -21,7 +21,7 @@ i studying high vocational computer technology at chiang mai technical college a
 > From : Chiang Mai, Thailand <br />
 > Hobby : Play Game, Coding, Listen to Music and Sleep😴 <br />
 
-# ⌨️ About Code Knowledge I Know 
+# ⌨️ My Code Knowledge
 <a href="#">
   <img src="https://user-images.githubusercontent.com/53619535/207899657-b0700c94-88e0-46c7-ba8d-980e12f60df5.png" alt"img_program"/>
 </a>
