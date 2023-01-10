@@ -47,7 +47,7 @@ Other         1 hr            ██░░░░░░░░░░░░░░�
   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin?username=Z0TEExt&repo=linebot-nodejs-googlesheet&title_color=303030&icon_color=303030&text_color=303030&bg_color=fff&border_radius=20&hide_border=true" alt="repo">
 </a>
 
-# 🖥 Other Skill About Computer 
+# 🖥 Other Skills About Computer 
 <a href="#">
   <img src="https://user-images.githubusercontent.com/53619535/207901839-4ff5363e-2bc7-483d-a9fc-10f6b758b9d7.png" alt"alt_otherskill">
 </a>
