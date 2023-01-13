@@ -29,6 +29,8 @@ i studying high vocational computer technology at chiang mai technical college a
 
 # 💻 Stats
 
+> In One Week I Coding
+
 <!--START_SECTION:waka-->
 
 ```text
