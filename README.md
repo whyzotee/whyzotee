@@ -34,10 +34,11 @@ i studying high vocational computer technology at chiang mai technical college a
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   2 hrs 46 mins   ████████▓░░░░░░░░░░░░░░░░   34.37 %
-C++          1 hr 59 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.78 %
-C#           1 hr 39 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.67 %
-Other        50 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.55 %
+Svelte       4 hrs 38 mins   ████████▓░░░░░░░░░░░░░░░░   34.23 %
+TypeScript   3 hrs 29 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.70 %
+C++          1 hr 59 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.70 %
+C#           1 hr 39 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.26 %
+Other        51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
 ```
 
 <!--END_SECTION:waka-->
