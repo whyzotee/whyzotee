@@ -31,6 +31,8 @@ i studying high vocational computer technology at chiang mai technical college a
 
 > In One Week I Coding
 
+[![wakatime](https://wakatime.com/badge/user/3ff4daa0-dc37-4cca-9446-11cce239b396.svg)](https://wakatime.com/@3ff4daa0-dc37-4cca-9446-11cce239b396)
+
 <!--START_SECTION:waka-->
 
 ```text
