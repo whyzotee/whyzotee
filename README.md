@@ -36,12 +36,9 @@ i studying high vocational computer technology at chiang mai technical college a
 <!--START_SECTION:waka-->
 
 ```text
-Svelte       8 hrs 21 mins   ██████████████░░░░░░░░░░░   55.72 %
-TypeScript   5 hrs 28 mins   █████████░░░░░░░░░░░░░░░░   36.49 %
-JSON         32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
-HTML         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
-YAML         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-JavaScript   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Svelte       7 hrs 37 mins   ███████████████░░░░░░░░░░   60.39 %
+TypeScript   3 hrs 20 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.55 %
+Other        45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
 ```
 
 <!--END_SECTION:waka-->
