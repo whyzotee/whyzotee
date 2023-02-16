@@ -4,7 +4,8 @@
 
 # 👋 Yo ! | โย่ว! | こんにちは ! 👋
 <h4>"hello everyone, welcome to my profile and sorry for bad english.😅<br />
-i studying high vocational computer technology at chiang mai technical college and i want to learn new things about code. Please tell me about code if i didn't good enough and nice to meet you!"😄</h4>
+i studying high vocational computer technology at chiang mai technical college and i want to learn new things about code. <br />
+Please tell me about code if i didn't good enough and nice to meet you!"😄</h4>
 
 <a href="http://www.github.com/Z0TEExt"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Z0TEExt&stroke=505050&background=ffffff&ring=505050&fire=505050&currStreakNum=505050&currStreakLabel=505050&sideNums=505050&sideLabels=505050&dates=505050&hide_border=true&border_radius=20" /></a>
 <br/>
