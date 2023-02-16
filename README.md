@@ -6,6 +6,9 @@
 <h4>"hello everyone, welcome to my profile and sorry for bad english.😅<br />
 i studying high vocational computer technology at chiang mai technical college and i want to learn new things about code. Please tell me about code if i didn't good enough and nice to meet you!"😄</h4>
 
+<a href="http://www.github.com/Z0TEExt"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Z0TEExt&stroke=505050&background=ffffff&ring=505050&fire=505050&currStreakNum=505050&currStreakLabel=505050&sideNums=505050&sideLabels=505050&dates=505050&hide_border=true&border_radius=20" /></a>
+<br/>
+
 <a href="#">
   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=Z0TEExt&show_icons=true&bg_color=fff&title_color=505050&icon_color=505050&border_radius=20" />
 </a>
@@ -42,12 +45,10 @@ Other        47 mins         █▒░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-<br />
 
-> Repo Project <br />
-<a href="https://github.com/Z0TEExt/linebot-nodejs-googlesheet">
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin?username=Z0TEExt&repo=linebot-nodejs-googlesheet&title_color=303030&icon_color=303030&text_color=303030&bg_color=fff&border_radius=20&hide_border=true" alt="repo">
-</a>
+> Github Commit <br />
+
+<a href="http://www.github.com/Z0TEExt"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Z0TEExt&bg_color=ffffff&color=505050&line=505050&point=505050&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 # 🖥 Other Skills About Computer 
 <a href="#">
