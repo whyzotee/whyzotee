@@ -11,11 +11,11 @@ Please tell me about code if i didn't good enough and nice to meet you!"😄</h4
 <br/>
 
 <a href="#">
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=Z0TEExt&show_icons=true&bg_color=fff&title_color=505050&icon_color=505050&border_radius=20" />
+  <img height="150em" align="center" src="https://github-readme-stats-z0tee.vercel.app/api?username=Z0TEExt&show_icons=true&bg_color=fff&title_color=505050&icon_color=505050&border_radius=20" />
 </a>
 
 <a href="#">
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z0TEExt&layout=compact&title_color=505050&border_radius=20" />
+  <img height="150em" align="center" src="https://github-readme-stats-z0tee.vercel.app/api/top-langs/?username=Z0TEExt&layout=compact&title_color=505050&border_radius=20" />
 </a>
 
 # 🧒 Personal Information 🧑‍🎓
