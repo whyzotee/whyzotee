@@ -18,7 +18,7 @@ Please tell me about code if i didn't good enough and nice to meet you!"😄</h4
 <!--START_SECTION:waka-->
 
 ```txt
-Dart   2 hrs 12 mins   █████████████████████████   100.00 %
+Dart   2 hrs 55 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
