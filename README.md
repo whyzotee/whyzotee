@@ -18,8 +18,7 @@ Please tell me about code if i didn't good enough and nice to meet you!"😄</h4
 <!--START_SECTION:waka-->
 
 ```txt
-YAML   0 secs          █████████████▓░░░░░░░░░░░   54.17 %
-Bash   0 secs          ███████████▒░░░░░░░░░░░░░   45.83 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
