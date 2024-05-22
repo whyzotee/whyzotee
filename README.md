@@ -18,7 +18,9 @@ Please tell me about code if i didn't good enough and nice to meet you!"😄</h4
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Dart              15 mins         ████████████████████▒░░░░   80.88 %
+YAML              3 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.33 %
+Java Properties   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 ```
 
 <!--END_SECTION:waka-->
