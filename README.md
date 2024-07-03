@@ -18,11 +18,7 @@ Let me know if you need any more help!</h4>
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   31 mins         █████████░░░░░░░░░░░░░░░░   36.09 %
-Python       19 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.05 %
-JavaScript   17 mins         █████░░░░░░░░░░░░░░░░░░░░   19.75 %
-JSON         14 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.35 %
-Other        4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
