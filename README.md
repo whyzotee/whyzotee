@@ -18,7 +18,11 @@ Let me know if you need any more help!</h4>
 <!--START_SECTION:waka-->
 
 ```txt
-Python   23 mins         █████████████████████████   100.00 %
+Python        2 hrs 9 mins    █████████████████████▓░░░   86.87 %
+JSON          15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
+TypeScript    4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+HTML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
