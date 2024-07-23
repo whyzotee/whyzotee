@@ -18,11 +18,11 @@ Let me know if you need any more help!</h4>
 <!--START_SECTION:waka-->
 
 ```txt
-Python        8 hrs 22 mins   ███████████████████████░░   92.66 %
-JSON          20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
-Dart          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-CocoaPods     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-TypeScript    4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+Python            8 hrs 45 mins   ████████████████████▓░░░░   82.13 %
+Dart              42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
+YAML              24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+JSON              20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+Java Properties   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
 ```
 
 <!--END_SECTION:waka-->
