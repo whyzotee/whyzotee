@@ -18,8 +18,8 @@ Let me know if you need any more help!</h4>
 <!--START_SECTION:waka-->
 
 ```txt
-Python       52 mins         ███████████████████▓░░░░░   78.03 %
-TypeScript   14 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.97 %
+Python       2 hrs 2 mins    ██████████████████████▒░░   89.23 %
+TypeScript   14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 %
 ```
 
 <!--END_SECTION:waka-->
