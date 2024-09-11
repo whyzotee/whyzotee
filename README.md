@@ -18,7 +18,8 @@ Let me know if you need any more help!</h4>
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   2 hrs 40 mins   █████████████████████████   99.91 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
