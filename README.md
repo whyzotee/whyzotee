@@ -18,8 +18,8 @@ Let me know if you need any more help!</h4>
 <!--START_SECTION:waka-->
 
 ```txt
-VHDL     58 mins         ██████████████░░░░░░░░░░░   55.46 %
-Python   46 mins         ███████████░░░░░░░░░░░░░░   44.54 %
+Python   1 hr            ████████████▓░░░░░░░░░░░░   50.74 %
+VHDL     58 mins         ████████████▒░░░░░░░░░░░░   49.26 %
 ```
 
 <!--END_SECTION:waka-->
