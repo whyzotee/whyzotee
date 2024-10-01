@@ -18,8 +18,11 @@ Let me know if you need any more help!</h4>
 <!--START_SECTION:waka-->
 
 ```txt
-Python   1 hr 30 mins    ███████████████▒░░░░░░░░░   60.76 %
-VHDL     58 mins         █████████▓░░░░░░░░░░░░░░░   39.24 %
+Dart          3 hrs 30 mins   █████████████▓░░░░░░░░░░░   54.83 %
+Python        1 hr 30 mins    ██████░░░░░░░░░░░░░░░░░░░   23.57 %
+VHDL          58 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.22 %
+YAML          20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+Git Config    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->
