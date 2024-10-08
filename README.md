@@ -18,11 +18,11 @@ Let me know if you need any more help!</h4>
 <!--START_SECTION:waka-->
 
 ```txt
-Dart          12 hrs 9 mins   ████████████████████░░░░░   79.89 %
-Python        1 hr 55 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.65 %
-YAML          39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
-Git Config    10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-Bash          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+Dart         8 hrs 39 mins   ███████████████████░░░░░░   76.53 %
+Python       1 hr 55 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.03 %
+YAML         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+Bash         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Git Config   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 ```
 
 <!--END_SECTION:waka-->
