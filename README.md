@@ -18,8 +18,7 @@ Let me know if you need any more help!</h4>
 <!--START_SECTION:waka-->
 
 ```txt
-Python   11 hrs 58 mins  █████████████████████████   99.66 %
-JSON     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Python   8 hrs 22 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
