@@ -18,8 +18,7 @@ Let me know if you need any more help!</h4>
 <!--START_SECTION:waka-->
 
 ```txt
-C++   58 mins         ████████████████████████▒   97.14 %
-INI   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
