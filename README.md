@@ -18,7 +18,11 @@ Let me know if you need any more help!</h4>
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C#            2 hrs 45 mins   ██████████████▒░░░░░░░░░░   57.74 %
+JavaScript    1 hr 33 mins    ████████▒░░░░░░░░░░░░░░░░   32.72 %
+XAML          13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+HTML          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+JSON          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
 ```
 
 <!--END_SECTION:waka-->
