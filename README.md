@@ -18,11 +18,7 @@ Let me know if you need any more help!</h4>
 <!--START_SECTION:waka-->
 
 ```txt
-C#            2 hrs 45 mins   ██████████░░░░░░░░░░░░░░░   40.09 %
-Python        2 hrs 6 mins    ███████▓░░░░░░░░░░░░░░░░░   30.57 %
-JavaScript    1 hr 33 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.71 %
-XAML          13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
-HTML          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+Python   2 hrs 6 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
