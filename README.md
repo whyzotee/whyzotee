@@ -18,7 +18,11 @@ Let me know if you need any more help!</h4>
 <!--START_SECTION:waka-->
 
 ```txt
-Python   2 hrs 6 mins    █████████████████████████   100.00 %
+Python            3 hrs 41 mins   ███████████████▓░░░░░░░░░   63.00 %
+Dart              1 hr 25 mins    ██████░░░░░░░░░░░░░░░░░░░   24.36 %
+JSON              29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
+YAML              8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+Groovy            3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
 ```
 
 <!--END_SECTION:waka-->
