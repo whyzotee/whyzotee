@@ -5,8 +5,7 @@
 # 👋 Yo ! | โย่ว! | こんにちは ! 👋
 
 <h4>Hello everyone, welcome to my profile and sorry for my English. 😅
-I'm studying Computer Engineering and Digital Technology at KMITL, and I want to learn new things about coding. Please correct me if I make any mistakes. Nice to meet you! 😄
-Let me know if you need any more help!</h4>
+I'm studying Computer Engineering and Digital Technology at KMITL, and I want to learn new things about coding. Please correct me if I make any mistakes. Nice to meet you! 😄</h4>
 
 [![status](https://img.shields.io/badge/Freelance_status-Not_Avaliable-red)](https://whyzotee.vercel.app)
 [![wakatime](https://wakatime.com/badge/user/3ff4daa0-dc37-4cca-9446-11cce239b396.svg)](https://wakatime.com/@3ff4daa0-dc37-4cca-9446-11cce239b396)
