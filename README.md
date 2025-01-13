@@ -17,11 +17,11 @@ I'm studying Computer Engineering and Digital Technology at KMITL, and I want to
 <!--START_SECTION:waka-->
 
 ```txt
-Dart         11 hrs 31 mins  ██████████████████░░░░░░░   71.38 %
-Python       4 hrs 12 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.03 %
-YAML         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Python       5 hrs 17 mins   ██████████████░░░░░░░░░░░   56.12 %
+Dart         3 hrs 47 mins   ██████████░░░░░░░░░░░░░░░   40.20 %
+YAML         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Git          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
