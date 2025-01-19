@@ -17,9 +17,9 @@ I'm studying Computer Engineering and Digital Technology at KMITL, and I want to
 <!--START_SECTION:waka-->
 
 ```txt
-Python   6 hrs 2 mins    ████████████████████████▓   98.40 %
-Other    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-Git      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Python   4 hrs 25 mins   ████████████████████████▒   97.85 %
+Other    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Git      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 ```
 
 <!--END_SECTION:waka-->
