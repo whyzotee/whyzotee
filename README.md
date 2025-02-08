@@ -17,10 +17,10 @@ I'm studying Computer Engineering and Digital Technology at KMITL, and I want to
 <!--START_SECTION:waka-->
 
 ```txt
-Dart       4 hrs 5 mins    ████████████████████▓░░░░   82.33 %
-Assembly   31 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 %
-Other      17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
-YAML       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+Dart       4 hrs 5 mins    ███████████████████▓░░░░░   78.09 %
+Other      33 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 %
+Assembly   31 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
+YAML       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 ```
 
 <!--END_SECTION:waka-->
