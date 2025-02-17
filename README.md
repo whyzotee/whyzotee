@@ -17,11 +17,8 @@ I'm studying Computer Engineering and Digital Technology at KMITL, and I want to
 <!--START_SECTION:waka-->
 
 ```txt
-Dart         3 hrs 53 mins   ███████████████████████░░   91.66 %
-Python       12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
-CocoaPods    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-XML          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Python     27 mins         █████████████████████████   99.97 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
