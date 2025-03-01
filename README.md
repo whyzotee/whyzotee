@@ -17,11 +17,11 @@ I'm studying Computer Engineering and Digital Technology at KMITL, and I want to
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   9 hrs 8 mins    █████████████████████░░░░   83.48 %
-Python       56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
-YAML         24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
-Other        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+TypeScript   9 hrs 11 mins   █████████████████████░░░░   83.56 %
+Python       56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 %
+YAML         24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+Other        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
 ```
 
 <!--END_SECTION:waka-->
