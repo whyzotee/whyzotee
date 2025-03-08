@@ -17,9 +17,9 @@ I'm studying Computer Engineering and Digital Technology at KMITL, and I want to
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   15 hrs 42 mins  ███████████████░░░░░░░░░░   60.55 %
-Python       8 hrs 14 mins   ████████░░░░░░░░░░░░░░░░░   31.74 %
-JSON         1 hr 33 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
+TypeScript   15 hrs 39 mins  ███████████████░░░░░░░░░░   60.54 %
+Python       8 hrs 14 mins   ████████░░░░░░░░░░░░░░░░░   31.84 %
+JSON         1 hr 33 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
 TOML         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 Git Config   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
