@@ -17,7 +17,7 @@ I'm studying Computer Engineering and Digital Technology at KMITL, and I want to
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         15 hrs 59 mins  ██████████████████████▒░░   89.29 %
+Rust         15 hrs 59 mins  ██████████████████████▒░░   89.28 %
 HTML         1 hr 28 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
 TOML         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 Other        6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
