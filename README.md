@@ -17,10 +17,9 @@ I'm studying Computer Engineering and Digital Technology at KMITL, and I want to
 <!--START_SECTION:waka-->
 
 ```txt
-Rust   9 hrs 21 mins   █████████████████████▒░░░   85.02 %
-HTML   1 hr 28 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 %
-TOML   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-Bash   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Rust   2 hrs 25 mins   ███████████████▒░░░░░░░░░   61.12 %
+HTML   1 hr 28 mins    █████████▒░░░░░░░░░░░░░░░   37.19 %
+TOML   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
 ```
 
 <!--END_SECTION:waka-->
