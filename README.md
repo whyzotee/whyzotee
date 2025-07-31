@@ -17,11 +17,8 @@ I'm studying Computer Engineering and Digital Technology at KMITL, and I want to
 <!--START_SECTION:waka-->
 
 ```txt
-Python      5 hrs 7 mins    ███████████████░░░░░░░░░░   59.67 %
-Dart        1 hr 24 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.34 %
-YAML        48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 %
-Rust        35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
-XML         21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+Python   5 hrs 30 mins   ██████████████████████▓░░   90.26 %
+Rust     35 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
 ```
 
 <!--END_SECTION:waka-->
