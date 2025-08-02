@@ -17,7 +17,8 @@ I'm studying Computer Engineering and Digital Technology at KMITL, and I want to
 <!--START_SECTION:waka-->
 
 ```txt
-Python   7 hrs 32 mins   █████████████████████████   100.00 %
+Python   7 hrs 32 mins   █████████████████████████   99.57 %
+Dart     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
