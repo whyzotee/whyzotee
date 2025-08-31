@@ -16,11 +16,11 @@ I'm studying Computer Engineering and Digital Technology at KMITL, and I want to
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                         4 hrs 45 mins   ████████▓░░░░░░░░░░░░░░░░   34.92 %
-Dart                               2 hrs 56 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.57 %
-Python                             2 hrs 15 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.52 %
-Svelte                             1 hr 58 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.46 %
-HTML                               50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
+TypeScript                         4 hrs 43 mins   ██████████▒░░░░░░░░░░░░░░   41.23 %
+Dart                               4 hrs           ████████▓░░░░░░░░░░░░░░░░   34.87 %
+Python                             2 hrs 15 mins   █████░░░░░░░░░░░░░░░░░░░░   19.64 %
+Microsoft Visual Studio Solution   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+YAML                               5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 ```
 
 <!--END_SECTION:waka-->
