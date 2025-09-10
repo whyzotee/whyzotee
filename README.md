@@ -16,11 +16,11 @@ I'm studying Computer Engineering and Digital Technology at KMITL, and I want to
 <!--START_SECTION:waka-->
 
 ```txt
-Dart                               16 hrs 1 min    ████████████████░░░░░░░░░   63.54 %
-C#                                 2 hrs 26 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 %
-Rust                               1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
-JSON                               1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
-CSHTML                             52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+Dart                               16 hrs 1 min    ███████████████▒░░░░░░░░░   61.69 %
+CSHTML                             2 hrs 52 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.06 %
+C#                                 2 hrs 47 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.74 %
+JSON                               1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+CSS                                53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
 ```
 
 <!--END_SECTION:waka-->
