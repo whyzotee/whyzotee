@@ -1,11 +1,16 @@
-# 👋 Yo ! | โย่ว! | こんにちは ! 👋
+## Yo ! 👋
 
-<h4>Hello everyone, welcome to my profile and sorry for my English. 😅
-I'm studying Computer Engineering and Digital Technology at KMITL, and I want to learn new things about coding. Please correct me if I make any mistakes. Nice to meet you! 😄</h4>
+You can call me Tee. I'm a third-year Computer Engineering student at KMITL.
+Currently exploring and deeply understanding Rust. Please correct me if I make any mistakes. Nice to meet you! 😄
 
-[![status](https://img.shields.io/badge/Freelance-Available-Green)](https://whyzotee.vercel.app)
+<p align="center">
+  <img src="https://github.com/whyzotee/whyzotee/blob/main/resources/image/kita-dancing.gif" alt="kita"  />
+</p>
+
+## current tech stack
+- **Rust** - Currently Exploring & Learning
+- **Dart / Flutter** - Prior production experience
+- **JavaScript / TypeScript** - Side Projects
+
+## wakatime
 [![wakatime](https://wakatime.com/badge/user/3ff4daa0-dc37-4cca-9446-11cce239b396.svg)](https://wakatime.com/@3ff4daa0-dc37-4cca-9446-11cce239b396)
-
-#### I'm currently using the stack
-[![Develop in Expo Snack](https://img.shields.io/badge/Flutter-119EFF.svg?style=for-the-badge&logo=flutter&labelColor=FFF&logoColor=119EFF)](https://flutter.dev/)
-[![Develop in Expo Snack](https://img.shields.io/badge/Expo-000.svg?style=for-the-badge&logo=EXPO&labelColor=FFF&logoColor=000)](https://expo.dev/)
