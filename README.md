@@ -1,10 +1,10 @@
 ## Yo ! 👋
 
 You can call me Tee. I'm a third-year Computer Engineering student at KMITL.
-Currently exploring and deeply understanding Rust. Please correct me if I make any mistakes. Nice to meet you! 😄
+Currently exploring and deeply understanding Rust. Always open to sharing knowledge, exchanging ideas, and learning from others. Nice to meet you! 😄
 
 <p align="center">
-  <img src="https://github.com/whyzotee/whyzotee/blob/main/resources/image/kita-dancing.gif" alt="kita"  />
+  <img src="https://github.com/whyzotee/whyzotee/blob/main/resources/image/kita-dancing.gif" alt="kita"/>
 </p>
 
 ## current tech stack
